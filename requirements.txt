@@ -1,0 +1,3 @@
+pyunsplash>=1.0.0rc2
+requests>=2.25.1
+wget>=3.2
